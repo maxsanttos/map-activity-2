@@ -10,7 +10,7 @@ import java.util.List;
 import java.util.Scanner;
 
 /**
- * @author Max Suel Santos Batista - R.A => 20103540-5
+ * @author Max Suel Santtos
  */
 public class Programa {
     public static void main(String[] args){
